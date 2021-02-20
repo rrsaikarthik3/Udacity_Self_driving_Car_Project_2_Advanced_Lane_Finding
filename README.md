@@ -19,6 +19,6 @@ This project used methods such as Camera calibration, Warping an Image, Gradient
 
 ##The Project
 ---
-The images that end with 'output' are the place where the project output is written and the directories that do not have the name 'output' are their corresponding input files.
+The 'output_images' directory contains the images that were output from the 'test_images'. This was done in order to calibrate the image processing parameters.
 The final video output for the input video 'project_video.mp4' is 'my_video.mp4'
 
